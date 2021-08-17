@@ -1,7 +1,7 @@
 .n1{
     width: 362px;
     height: 200px;
-    background-image: url(../images/Vyy.png);
+    background-image: url(Vyy.png);
     background-size: cover;
 }
 
@@ -12,7 +12,7 @@
 
 
 .change{
-    background-image: url(../images/cayto.jpg);
+    background-image: url(cayto.jpg);
     transition: 2s;
 }
 
